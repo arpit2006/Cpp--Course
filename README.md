@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C++ 
 # C++ Programming Course
 <br>
@@ -35,3 +36,4 @@ The repository is organized into the following sections:
 
 ## 🏗️ Getting Started
 
+=======
