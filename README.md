@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # C++ 
 # C++ Programming Course
 <br>
