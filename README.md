@@ -31,9 +31,7 @@ The repository is organized into the following sections:
 4. **Object-Oriented Programming**
    - Classes, Objects, Inheritance, Polymorphism
 5. **Pointers and Memory Management**
-6. **Advanced Topics**
-   - Templates, STL, and Exception Handling
-7. **Projects and Practice Problems**
+6. **Projects and Practice Problems**
 
 ## 🏗️ Getting Started
 
