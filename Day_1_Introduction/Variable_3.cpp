@@ -6,3 +6,21 @@ char gender = 'M'; //character
 int age = 45; //integer
 float height = 5.10f; //float
 double salary = 51000.99191; //Double
+
+//Local Variable
+#include<iostream>
+using namespace std;
+int main()
+{
+    int age ;
+}
+
+//Global Variable
+#include<iostream>
+using namespace std;
+int age = 25 ;
+
+int main()
+{
+    
+}
